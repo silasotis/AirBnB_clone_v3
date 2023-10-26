@@ -179,7 +179,7 @@ No known bugs at this time.
 ## Authors
 
 Victor Ejiogu - [Github](https://github.com/Naijamerit) / [Twitter](https://twitter.com/naijameritng)
-Silas Ogot - [Github](https://github.com/silasotis) / [Twitter](https://twitter.com/)
+Silas Ogot - [Github](https://github.com/silasotis) / [Twitter](https://twitter.com/SyllaTylla)
 
 ## License
 
